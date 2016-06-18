@@ -1,6 +1,7 @@
 # Vocab Builder
 Vocab Builder helps you build your vocabulary
 
+Access the Web App at http://vocabcloudhack.programminggeek.in/
 
 Download the App at Play Store: https://play.google.com/store/apps/details?id=in.programminggeek.VocabBuilder
 
@@ -19,11 +20,13 @@ Download the App at Play Store: https://play.google.com/store/apps/details?id=in
 - Check your pronunciation
 - Translation according to your preferences
 
-# Demo
-https://play.google.com/store/apps/details?id=in.programminggeek.VocabBuilder
+# Project Resource
 
-http://vocabbuilder.programminggeek.in
+Repository URL: https://github.com/vikashvverma/VocabCloudHack
 
+DigitalOcean URL: http://139.59.1.232/ or http://vocabcloudhack.programminggeek.in/
+
+Play Store URL: https://play.google.com/store/apps/details?id=in.programminggeek.VocabBuilder
 
 # Installing
 
@@ -50,4 +53,4 @@ Run following commands in sequence
 
 # Support
 
-Drop a mail to `vikash@programminggeek.in` or create an [issue](https://github.com/vikashvverma/Vocab-Builder/issues/new) in case you run into any trouble
+Drop a mail to `vikash@programminggeek.in` or  create an [issue](https://github.com/vikashvverma/Vocab-Builder/issues/new) in case you run into any trouble
